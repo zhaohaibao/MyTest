@@ -1,0 +1,3 @@
+private static final String name="111111";
+private static final String password="222222";
+private static final String url="http://...";
